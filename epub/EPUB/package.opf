@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/# kotobee: https://www.kotobee.com/vocab# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Lectura y Expresión Oral y Escrita 1</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:5e565bb5-39de-ae31-b3bd-65f5804a4ff8</dc:identifier>
+        <meta name="cover" content="img105" />
+
+        <dc:creator>Lorena Hernández Vázquez</dc:creator>
+        <dc:publisher>María Eugenia Briones Juárez y David Gutiérrez Gómez</dc:publisher>
+        <dc:rights>Majestic Education, S.A. de C.V.</dc:rights>
+        <dc:language>es</dc:language>
+        <dc:description>No description available</dc:description>
+        <meta property="dcterms:modified">2020-06-26T17:33:35Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="rendition:orientation">auto</meta>
+        <meta property="ibooks:interactive">true</meta>
+        <meta property="ibooks:specified-fonts">false</meta>
+        <meta property="kotobee:version">1.6.4</meta>
+        <meta property="kotobee:build">904</meta>
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/pdfoq5sz/page1/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/raw/sr7v7h.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/pdf5ii36/page1/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/pdf5ii36/page2/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html4" href="xhtml/pdf5ii36/page3/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html5" href="xhtml/pdf5ii36/page4/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html6" href="xhtml/pdf5ii36/page5/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html7" href="xhtml/pdf5ii36/page6/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html8" href="xhtml/pdf5ii36/page7/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html9" href="xhtml/pdf5ii36/page8/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html10" href="xhtml/pdf5ii36/page9/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html11" href="xhtml/pdf5ii36/page10/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html12" href="xhtml/pdfudio9/page1/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html13" href="xhtml/pdf5ii36/page12/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html14" href="xhtml/pdf5ii36/page13/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html15" href="xhtml/pdf5ii36/page14/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html16" href="xhtml/pdf5ii36/page15/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html17" href="xhtml/pdf5ii36/page16/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html18" href="xhtml/pdf5ii36/page17/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html19" href="xhtml/pdf5ii36/page18/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html20" href="xhtml/pdf5ii36/page19/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html21" href="xhtml/pdf5ii36/page20/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html22" href="xhtml/pdf5ii36/page21/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html23" href="xhtml/pdf5ii36/page22/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html24" href="xhtml/pdf5ii36/page23/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html25" href="xhtml/pdf5ii36/page24/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html26" href="xhtml/pdf5ii36/page25/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html27" href="xhtml/pdf5ii36/page26/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html28" href="xhtml/pdf5ii36/page27/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html29" href="xhtml/pdf5ii36/page28/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html30" href="xhtml/pdf5ii36/page29/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html31" href="xhtml/pdf5ii36/page30/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html32" href="xhtml/pdf5ii36/page31/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html33" href="xhtml/pdf5ii36/page32/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html34" href="xhtml/pdf5ii36/page33/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html35" href="xhtml/pdf2majb/page1/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html36" href="xhtml/pdf5ii36/page35/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html37" href="xhtml/pdf5ii36/page36/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html38" href="xhtml/pdf5ii36/page37/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html39" href="xhtml/pdf5ii36/page38/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html40" href="xhtml/pdf5ii36/page39/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html41" href="xhtml/pdfdhc3t/page145/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html42" href="xhtml/pdfdhc3t/page146/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html43" href="xhtml/pdfdhc3t/page147/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html44" href="xhtml/pdfdhc3t/page148/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html45" href="xhtml/pdfdhc3t/page149/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html46" href="xhtml/pdfdhc3t/page150/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html47" href="xhtml/pdf530rg/page1/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/answer.png" media-type="image/png"/>
+<item id="img1" href="imgs/answer01.png" media-type="image/png"/>
+<item id="img2" href="imgs/answer02.png" media-type="image/png"/>
+<item id="img3" href="imgs/answer03.png" media-type="image/png"/>
+<item id="img4" href="imgs/answer04.png" media-type="image/png"/>
+<item id="img5" href="imgs/answer05.png" media-type="image/png"/>
+<item id="img6" href="imgs/answer06.png" media-type="image/png"/>
+<item id="img7" href="imgs/answer07.png" media-type="image/png"/>
+<item id="img8" href="imgs/answer08.png" media-type="image/png"/>
+<item id="img9" href="imgs/answer09.png" media-type="image/png"/>
+<item id="img10" href="imgs/answer10.png" media-type="image/png"/>
+<item id="img11" href="imgs/answer11.png" media-type="image/png"/>
+<item id="img12" href="imgs/answer12.png" media-type="image/png"/>
+<item id="img13" href="imgs/answer13.png" media-type="image/png"/>
+<item id="img14" href="imgs/answer14.png" media-type="image/png"/>
+<item id="img15" href="imgs/answer15.png" media-type="image/png"/>
+<item id="img16" href="imgs/answer16.png" media-type="image/png"/>
+<item id="img17" href="imgs/answer17.png" media-type="image/png"/>
+<item id="img18" href="imgs/answer18.png" media-type="image/png"/>
+<item id="img19" href="imgs/answer19.png" media-type="image/png"/>
+<item id="img20" href="imgs/answer2.png" media-type="image/png"/>
+<item id="img21" href="imgs/answer20.png" media-type="image/png"/>
+<item id="img22" href="imgs/answer201.png" media-type="image/png"/>
+<item id="img23" href="imgs/answer202.png" media-type="image/png"/>
+<item id="img24" href="imgs/answer203.png" media-type="image/png"/>
+<item id="img25" href="imgs/answer204.png" media-type="image/png"/>
+<item id="img26" href="imgs/answer205.png" media-type="image/png"/>
+<item id="img27" href="imgs/answer206.png" media-type="image/png"/>
+<item id="img28" href="imgs/answer207.png" media-type="image/png"/>
+<item id="img29" href="imgs/answer208.png" media-type="image/png"/>
+<item id="img30" href="imgs/answer209.png" media-type="image/png"/>
+<item id="img31" href="imgs/answer21.png" media-type="image/png"/>
+<item id="img32" href="imgs/answer210.png" media-type="image/png"/>
+<item id="img33" href="imgs/answer211.png" media-type="image/png"/>
+<item id="img34" href="imgs/answer212.png" media-type="image/png"/>
+<item id="img35" href="imgs/answer213.png" media-type="image/png"/>
+<item id="img36" href="imgs/answer214.png" media-type="image/png"/>
+<item id="img37" href="imgs/answer22.png" media-type="image/png"/>
+<item id="img38" href="imgs/answer23.png" media-type="image/png"/>
+<item id="img39" href="imgs/answer24.png" media-type="image/png"/>
+<item id="img40" href="imgs/answer25.png" media-type="image/png"/>
+<item id="img41" href="imgs/answer26.png" media-type="image/png"/>
+<item id="img42" href="imgs/answer27.png" media-type="image/png"/>
+<item id="img43" href="imgs/answer28.png" media-type="image/png"/>
+<item id="img44" href="imgs/answer29.png" media-type="image/png"/>
+<item id="img45" href="imgs/answer30.png" media-type="image/png"/>
+<item id="img46" href="imgs/answer31.png" media-type="image/png"/>
+<item id="img47" href="imgs/answer32.png" media-type="image/png"/>
+<item id="img48" href="imgs/answer33.png" media-type="image/png"/>
+<item id="img49" href="imgs/answer34.png" media-type="image/png"/>
+<item id="img50" href="imgs/answer35.png" media-type="image/png"/>
+<item id="img51" href="imgs/answer36.png" media-type="image/png"/>
+<item id="img52" href="imgs/answer37.png" media-type="image/png"/>
+<item id="img53" href="imgs/answer38.png" media-type="image/png"/>
+<item id="img54" href="imgs/answer39.png" media-type="image/png"/>
+<item id="img55" href="imgs/answer40.png" media-type="image/png"/>
+<item id="img56" href="imgs/answer41.png" media-type="image/png"/>
+<item id="img57" href="imgs/answer42.png" media-type="image/png"/>
+<item id="img58" href="imgs/answer43.png" media-type="image/png"/>
+<item id="img59" href="imgs/answer44.png" media-type="image/png"/>
+<item id="img60" href="imgs/answer45.png" media-type="image/png"/>
+<item id="img61" href="imgs/answer46.png" media-type="image/png"/>
+<item id="img62" href="imgs/answer47.png" media-type="image/png"/>
+<item id="img63" href="imgs/answer48.png" media-type="image/png"/>
+<item id="img64" href="imgs/answer49.png" media-type="image/png"/>
+<item id="img65" href="imgs/answer50.png" media-type="image/png"/>
+<item id="img66" href="imgs/answer51.png" media-type="image/png"/>
+<item id="img67" href="imgs/answer52.png" media-type="image/png"/>
+<item id="img68" href="imgs/answer53.png" media-type="image/png"/>
+<item id="img69" href="imgs/answer54.png" media-type="image/png"/>
+<item id="img70" href="imgs/answer55.png" media-type="image/png"/>
+<item id="img71" href="imgs/answer56.png" media-type="image/png"/>
+<item id="img72" href="imgs/answer57.png" media-type="image/png"/>
+<item id="img73" href="imgs/answer58.png" media-type="image/png"/>
+<item id="img74" href="imgs/answer59.png" media-type="image/png"/>
+<item id="img75" href="imgs/answer60.png" media-type="image/png"/>
+<item id="img76" href="imgs/answer61.png" media-type="image/png"/>
+<item id="img77" href="imgs/answerfisica.png" media-type="image/png"/>
+<item id="img78" href="imgs/answerfisica01.png" media-type="image/png"/>
+<item id="img79" href="imgs/answerfisica02.png" media-type="image/png"/>
+<item id="img80" href="imgs/answerfisica03.png" media-type="image/png"/>
+<item id="img81" href="imgs/answerfisica04.png" media-type="image/png"/>
+<item id="img82" href="imgs/answerfisica05.png" media-type="image/png"/>
+<item id="img83" href="imgs/answerfisica06.png" media-type="image/png"/>
+<item id="img84" href="imgs/answershadow.png" media-type="image/png"/>
+<item id="img85" href="imgs/answershadow01.png" media-type="image/png"/>
+<item id="img86" href="imgs/answershadow02.png" media-type="image/png"/>
+<item id="img87" href="imgs/answershadow03.png" media-type="image/png"/>
+<item id="img88" href="imgs/answershadow04.png" media-type="image/png"/>
+<item id="img89" href="imgs/answershadow05.png" media-type="image/png"/>
+<item id="img90" href="imgs/answershadow06.png" media-type="image/png"/>
+<item id="img91" href="imgs/answershadow07.png" media-type="image/png"/>
+<item id="img92" href="imgs/answershadow08.png" media-type="image/png"/>
+<item id="img93" href="imgs/answershadow09.png" media-type="image/png"/>
+<item id="img94" href="imgs/answershadow10.png" media-type="image/png"/>
+<item id="img95" href="imgs/answershadow11.png" media-type="image/png"/>
+<item id="img96" href="imgs/answershadow12.png" media-type="image/png"/>
+<item id="img97" href="imgs/bg00001.jpg" media-type="image/jpeg"/>
+<item id="img98" href="imgs/defaultCover.png" media-type="image/png"/>
+<item id="img99" href="imgs/registro.jpg" media-type="image/jpeg"/>
+<item id="img100" href="imgs/registro.png" media-type="image/png"/>
+<item id="img101" href="imgs/registro01.png" media-type="image/png"/>
+<item id="img102" href="imgs/registro02.png" media-type="image/png"/>
+<item id="img103" href="imgs/registro03.png" media-type="image/png"/>
+<item id="img104" href="imgs/registro04.png" media-type="image/png"/>
+<item id="img105" href="imgs/usersleonardogonzale.jpg" properties="cover-image" media-type="image/jpeg"/>
+<item id="img106" href="imgs/usersleonardogonzale.png" media-type="image/png"/>
+<item id="img107" href="xhtml/pdf2majb/page1/page.png" media-type="image/png"/>
+<item id="img108" href="xhtml/pdf530rg/page1/page.png" media-type="image/png"/>
+<item id="img109" href="xhtml/pdf5ii36/page1/page.png" media-type="image/png"/>
+<item id="img110" href="xhtml/pdf5ii36/page10/page.png" media-type="image/png"/>
+<item id="img111" href="xhtml/pdf5ii36/page12/page.png" media-type="image/png"/>
+<item id="img112" href="xhtml/pdf5ii36/page13/page.png" media-type="image/png"/>
+<item id="img113" href="xhtml/pdf5ii36/page14/page.png" media-type="image/png"/>
+<item id="img114" href="xhtml/pdf5ii36/page15/page.png" media-type="image/png"/>
+<item id="img115" href="xhtml/pdf5ii36/page16/page.png" media-type="image/png"/>
+<item id="img116" href="xhtml/pdf5ii36/page17/page.png" media-type="image/png"/>
+<item id="img117" href="xhtml/pdf5ii36/page18/page.png" media-type="image/png"/>
+<item id="img118" href="xhtml/pdf5ii36/page19/page.png" media-type="image/png"/>
+<item id="img119" href="xhtml/pdf5ii36/page2/page.png" media-type="image/png"/>
+<item id="img120" href="xhtml/pdf5ii36/page20/page.png" media-type="image/png"/>
+<item id="img121" href="xhtml/pdf5ii36/page21/page.png" media-type="image/png"/>
+<item id="img122" href="xhtml/pdf5ii36/page22/page.png" media-type="image/png"/>
+<item id="img123" href="xhtml/pdf5ii36/page23/page.png" media-type="image/png"/>
+<item id="img124" href="xhtml/pdf5ii36/page24/page.png" media-type="image/png"/>
+<item id="img125" href="xhtml/pdf5ii36/page25/page.png" media-type="image/png"/>
+<item id="img126" href="xhtml/pdf5ii36/page26/page.png" media-type="image/png"/>
+<item id="img127" href="xhtml/pdf5ii36/page27/page.png" media-type="image/png"/>
+<item id="img128" href="xhtml/pdf5ii36/page28/page.png" media-type="image/png"/>
+<item id="img129" href="xhtml/pdf5ii36/page29/page.png" media-type="image/png"/>
+<item id="img130" href="xhtml/pdf5ii36/page3/page.png" media-type="image/png"/>
+<item id="img131" href="xhtml/pdf5ii36/page30/page.png" media-type="image/png"/>
+<item id="img132" href="xhtml/pdf5ii36/page31/page.png" media-type="image/png"/>
+<item id="img133" href="xhtml/pdf5ii36/page32/page.png" media-type="image/png"/>
+<item id="img134" href="xhtml/pdf5ii36/page33/page.png" media-type="image/png"/>
+<item id="img135" href="xhtml/pdf5ii36/page35/page.png" media-type="image/png"/>
+<item id="img136" href="xhtml/pdf5ii36/page36/page.png" media-type="image/png"/>
+<item id="img137" href="xhtml/pdf5ii36/page37/page.png" media-type="image/png"/>
+<item id="img138" href="xhtml/pdf5ii36/page38/page.png" media-type="image/png"/>
+<item id="img139" href="xhtml/pdf5ii36/page39/page.png" media-type="image/png"/>
+<item id="img140" href="xhtml/pdf5ii36/page4/page.png" media-type="image/png"/>
+<item id="img141" href="xhtml/pdf5ii36/page5/page.png" media-type="image/png"/>
+<item id="img142" href="xhtml/pdf5ii36/page6/page.png" media-type="image/png"/>
+<item id="img143" href="xhtml/pdf5ii36/page7/page.png" media-type="image/png"/>
+<item id="img144" href="xhtml/pdf5ii36/page8/page.png" media-type="image/png"/>
+<item id="img145" href="xhtml/pdf5ii36/page9/page.png" media-type="image/png"/>
+<item id="img146" href="xhtml/pdfdhc3t/page145/page.png" media-type="image/png"/>
+<item id="img147" href="xhtml/pdfdhc3t/page146/page.png" media-type="image/png"/>
+<item id="img148" href="xhtml/pdfdhc3t/page147/page.png" media-type="image/png"/>
+<item id="img149" href="xhtml/pdfdhc3t/page148/page.png" media-type="image/png"/>
+<item id="img150" href="xhtml/pdfdhc3t/page149/page.png" media-type="image/png"/>
+<item id="img151" href="xhtml/pdfdhc3t/page150/page.png" media-type="image/png"/>
+<item id="img152" href="xhtml/pdfoq5sz/page1/page.png" media-type="image/png"/>
+<item id="img153" href="xhtml/pdfudio9/page1/page.png" media-type="image/png"/>
+<item id="img154" href="../_kmeta/imgUser/logo-header-majestic.png" media-type="image/png"/>
+<item id="css0" href="css/base.css" media-type="text/css"/>
+<item id="css1" href="css/global.css" media-type="text/css"/>
+<item id="css2" href="css/kotobeeInteractive.css" media-type="text/css"/>
+<item id="js0" href="js/global.js" media-type="text/javascript"/>
+<item id="js1" href="js/kotobeeInteractive.js" media-type="text/javascript"/>
+<item id="js2" href="js/kotobeeInteractive3D.js" media-type="text/javascript"/>
+<item id="js3" href="../_kmeta/config.js" media-type="text/javascript"/>
+
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="html0" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html1" properties="rendition:layout-reflowable"/>
+<itemref idref="html2" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html3" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html4" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html5" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html6" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html7" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html8" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html9" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html10" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html11" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html12" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html13" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html14" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html15" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html16" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html17" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html18" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html19" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html20" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html21" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html22" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html23" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html24" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html25" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html26" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html27" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html28" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html29" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html30" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html31" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html32" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html33" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html34" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html35" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html36" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html37" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html38" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html39" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html40" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html41" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html42" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html43" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html44" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html45" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html46" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html47" properties="rendition:layout-pre-paginated"/>
+
+    </spine>
+
+    
+    
+</package>
